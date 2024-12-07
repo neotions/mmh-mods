@@ -16,8 +16,3 @@
 | mcw-doors            | 1.20.1            | 1.1.0                 |
 | simpleplanes         | 1.20.1            | 5.3.3                 |
 | simplylight          | 1.20.1            | 1.4.6-build.50        |
-
-**Note:**  
-- Some mods explicitly show both Minecraft and mod versions (e.g., `modname-<MCVersion>-<ModVersion>.jar`).  
-- Quark’s jar suggests it’s for MC 1.20.x, version 4.0-460.  
-- Zeta’s naming convention isn’t immediately clear. It’s listed as `Zeta-1.0-24.jar` which might indicate mod version `1.0-24`, but does not clearly specify the Minecraft version.
