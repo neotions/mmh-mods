@@ -1,9 +1,7 @@
 # Mod List
 
-- ComputerCraft (CC: Tweaked)
-- Chunk Loaders
 - Fabric API
-- Carpet (Bot Players)
-- Iris Shaders
+- CC Tweaked
 - Ping Wheel
-- Sodium (Performance)
+- Sodium
+- Sodium Extra
