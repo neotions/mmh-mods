@@ -5,3 +5,4 @@
 - Ping Wheel
 - Sodium
 - Sodium Extra
+- Ferrite Core
