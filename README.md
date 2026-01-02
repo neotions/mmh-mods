@@ -3,6 +3,7 @@
 Version : `12/13/2025`
 
 - CC Tweaked
+- Extra Peripherals (Custom)
 - Chunky
 - Chunky Extended
 - Entity Culling
