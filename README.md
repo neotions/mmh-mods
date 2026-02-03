@@ -4,7 +4,7 @@
 
 ## Mod List
 
-Version : `2/2/2026`
+Version : `2/3/2026`
 
 - CC Tweaked
 - Continuity
@@ -17,6 +17,7 @@ Version : `2/2/2026`
 - Ping Wheel
 - Simple Copper Pipes
 - Sleep
+- Smart Particles
 - Sodium
 - Spark
 - Trimmable-Tools
